@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/bffb/Note-add.svg</file>
+        <file>icons/bffb/Note-remove.svg</file>
+        <file>icons/bffb/Notebook-new.svg</file>
+        <file>icons/bffb/Notebook-open.svg</file>
+        <file>icons/bffb/Notebook-save-as.svg</file>
+        <file>icons/bffb/Notebook-save.svg</file>
+        <file>icons/bffb/web_120072.svg</file>
+        <file>icons/close-round-line-icon.svg</file>
+        <file>icons/computer-folder-open-icon.svg</file>
+        <file>icons/document-download-icon.svg</file>
+        <file>icons/logout-line-icon.svg</file>
+        <file>icons/minus-line-icon.svg</file>
+        <file>icons/plus-line-icon.svg</file>
+        <file>icons/save-file-icon.svg</file>
+        <file>icons/text-document-add-icon.svg</file>
+        <file>icons/web_120072.svg</file>
+        <file>icons/info-circle-line-icon.svg</file>
+    </qresource>
+</RCC>
